@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="250" viewBox="0 0 560 250" role="img" aria-labelledby="t d">
+  <title id="t">Lumen</title><desc id="d">Production business system for LOGO Tiger ERP.</desc>
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11151c"/><stop offset="1" stop-color="#270a12"/></linearGradient>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6f1022"/><stop offset="1" stop-color="#e53935"/></linearGradient>
+    <pattern id="g" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#fff" stroke-opacity=".03"/></pattern>
+  </defs>
+  <rect width="560" height="250" rx="20" fill="url(#b)"/><rect width="560" height="250" rx="20" fill="url(#g)"/><rect x="1" y="1" width="558" height="248" rx="19" fill="none" stroke="#fff" stroke-opacity=".11"/>
+  <rect x="30" y="28" width="82" height="28" rx="14" fill="#44d17a" fill-opacity=".12" stroke="#44d17a" stroke-opacity=".35"/><circle cx="45" cy="42" r="4" fill="#44d17a"/><text x="56" y="46" fill="#8ee6ad" font-family="Consolas, monospace" font-size="10" letter-spacing="1">PRODUCTION</text>
+  <text x="30" y="112" fill="#fff8f5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="45" font-weight="750">Lumen</text>
+  <text x="31" y="145" fill="#b9b1b3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Sales &amp; inventory interface for LOGO Tiger ERP.</text>
+  <g font-family="Consolas, monospace" font-size="11"><text x="31" y="190" fill="#8b949e">PHP</text><text x="75" y="190" fill="#4b5563">/</text><text x="92" y="190" fill="#8b949e">SQL SERVER</text><text x="175" y="190" fill="#4b5563">/</text><text x="192" y="190" fill="#8b949e">PWA</text></g>
+  <text x="31" y="222" fill="#e53935" font-family="Consolas, monospace" font-size="12" letter-spacing="1">VIEW PROJECT  →</text>
+  <g transform="translate(443 48)"><rect width="76" height="76" rx="18" fill="#fff" fill-opacity=".04" stroke="#fff" stroke-opacity=".12"/><path d="M20 57V20h37M20 39h24M44 20v37" fill="none" stroke="url(#a)" stroke-width="5" stroke-linecap="round"/></g>
+  <rect y="244" width="560" height="6" rx="3" fill="url(#a)"/>
+</svg>

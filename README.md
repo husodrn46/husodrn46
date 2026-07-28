@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg?v=2" width="100%" alt="Hüseyin Durna — Systems that work">
+  <img src="assets/profile-header-v2.svg" width="100%" alt="Hüseyin Durna — Systems that work">
 </p>
 
 <h3 align="center">I keep systems running — and build better ones when existing tools slow people down.</h3>
@@ -59,12 +59,12 @@ Internal tools designed around real business workflows.
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/husodrn46/Lumen">
-  <img src="assets/lumen-card.svg?v=1" width="100%" alt="Lumen — View project">
+  <img src="assets/lumen-card.svg" width="100%" alt="Lumen — View project">
 </a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/husodrn46/ollama-cli">
-  <img src="assets/ollama-card.svg?v=1" width="100%" alt="Ollama CLI — View project">
+  <img src="assets/ollama-card.svg" width="100%" alt="Ollama CLI — View project">
 </a>
 </td>
 </tr>

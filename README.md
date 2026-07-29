@@ -1,96 +1,43 @@
-<p align="center">
-  <img src="assets/profile-header-v2.svg" width="100%" alt="Hüseyin Durna — Systems that work">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-live.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-sheet.svg">
+  <img src="assets/header-live.svg" alt="Hüseyin Durna — personal spec sheet. I like understanding how things work, then making them better." width="100%">
+</picture>
 
-<h3 align="center">I keep systems running — and build better ones when existing tools slow people down.</h3>
+I look after the servers, networks, backups and user support at [AKEL Melamin](https://akelmelamin.com) in Istanbul. When something stops, I'm the one they call — and alongside that I build the internal systems that make the work easier. Software, hardware and everyday work meet somewhere, and that is the part I find interesting.
 
-<p align="center">
-  Managing <a href="https://github.com/akel-melamin">@akel-melamin</a>'s IT infrastructure and turning real operational needs into practical business systems.
-</p>
+**[husodrn46.com](https://husodrn46.com)** · [huseyindurna5@gmail.com](mailto:huseyindurna5@gmail.com)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/IT_OPERATIONS-6F1022?style=for-the-badge" alt="IT Operations">
-  <img src="https://img.shields.io/badge/INFRASTRUCTURE-181113?style=for-the-badge" alt="Infrastructure">
-  <img src="https://img.shields.io/badge/BUSINESS_SYSTEMS-E53935?style=for-the-badge" alt="Business Systems">
-</p>
+## Now
 
-<br>
+| | |
+|---|---|
+| <img src="assets/dot-running.svg" width="12"> **Running** | Keeping day-to-day systems up at AKEL |
+| <img src="assets/dot-building.svg" width="12"> **Building** | Lumen, around real sales and inventory needs |
+| <img src="assets/dot-variable.svg" width="12"> **Testing** | Hardware, automation and whatever I'm curious about |
 
-## Operating at the intersection of infrastructure and software
+## Things I've made
 
-<table>
-<tr>
-<td width="25%" valign="top">
+| Status | Work | What it is |
+|---|---|---|
+| <img src="assets/dot-building.svg" width="12"> Building | **[Lumen](https://github.com/husodrn46/Lumen)** | Getting at LOGO Tiger's data from a phone was painful, so I wrote an open-source interface that makes sales and inventory usable on mobile.<br>`PHP` `PWA` `ERP` |
+| <img src="assets/dot-running.svg" width="12"> Running | **[AKEL Melamin](https://akelmelamin.com)** | Day-to-day operation of the IT infrastructure, and the internal systems built around it.<br>`2022 — now` |
+| <img src="assets/dot-running.svg" width="12"> Running | **Nexus** | My own git server, file cloud, ad filter and monitoring board, all on a Raspberry Pi 5. I chose to build it rather than rent it, which means fixing it is on me too.<br>`Pi 5` `Debian` `Docker` |
+| <img src="assets/dot-building.svg" width="12"> Building | **Command Center** | It started because I was tired of checking five tabs every morning. A data layer on Nexus, a macOS menu bar app on the same feed; a physical screen and a 3D-printed case come next.<br>`Node.js` `Pi 5` `macOS` |
+| <img src="assets/dot-past.svg" width="12"> Experience | **42 Istanbul piscine** | Four weeks of C, algorithms, peer learning with no instructors, and a project to hand in every day. |
 
-**01 / INFRASTRUCTURE**
+## What I work with
 
-Servers, backups, access control and remote connectivity.
+| | |
+|---|---|
+| **Servers** | Windows Server · Debian / Ubuntu |
+| **Hardware** | Raspberry Pi 5 · NAS · Workstations |
+| **Services** | Docker · Gitea · Nextcloud · Pi-hole · Uptime Kuma |
+| **Access** | Tailscale · Cloudflare Tunnel |
+| **Backup** | Windows Server Backup · NAS |
+| **Code** | PHP · Python · SQL · Node.js |
+| **Method** | Building with AI agents |
 
-</td>
-<td width="25%" valign="top">
+---
 
-**02 / NETWORKS**
-
-Workplace networking, hardware selection and on-site installation.
-
-</td>
-<td width="25%" valign="top">
-
-**03 / SUPPORT**
-
-Technical problem-solving for users across the company.
-
-</td>
-<td width="25%" valign="top">
-
-**04 / SYSTEMS**
-
-Internal tools designed around real business workflows.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Selected systems
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/husodrn46/Lumen">
-  <img src="assets/lumen-card.svg" width="100%" alt="Lumen — View project">
-</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/husodrn46/ollama-cli">
-  <img src="assets/ollama-card.svg" width="100%" alt="Ollama CLI — View project">
-</a>
-</td>
-</tr>
-</table>
-
-<br>
-
-## Tools I work with
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux">
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server">
-</p>
-
-<br>
-
-## Current signal
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=husodrn46&bg_color=0d1117&color=fff8f5&line=e53935&point=fff8f5&area=true&area_color=6f1022&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Hüseyin Durna's contribution activity">
-</p>
-
-<p align="center">
-  <sub>Currently improving <strong>Lumen</strong> and making AKEL's internal systems more reliable, accessible and useful.</sub>
-</p>
+<sub>The header is the same sheet as <a href="https://husodrn46.com">husodrn46.com</a> — the live face in dark mode, the printed one in light.</sub>

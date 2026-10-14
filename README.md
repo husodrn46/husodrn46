@@ -4,9 +4,9 @@
   <img src="assets/header-live.svg" alt="Hüseyin Durna — personal spec sheet. I like understanding how things work, then making them better." width="100%">
 </picture>
 
-I look after the servers, networks, backups and user support at [AKEL Melamin](https://akelmelamin.com) in Istanbul. When something stops, I'm the one they call — and alongside that I build the internal systems that make the work easier. Software, hardware and everyday work meet somewhere, and that is the part I find interesting.
+I handle pre-accounting and IT at my family's company, [AKEL Melamin](https://akelmelamin.com). I enjoy making software for everyday needs, with help from AI tools. It's a hobby: I learn by trying things and solving the problems in front of me.
 
-**[husodrn46.com](https://husodrn46.com)** · [huseyindurna5@gmail.com](mailto:huseyindurna5@gmail.com)
+**[Blog](https://blog.husodrn46.com)** · [husodrn46.com](https://husodrn46.com) · [huseyindurna5@gmail.com](mailto:huseyindurna5@gmail.com)
 
 ## Now
 
@@ -15,6 +15,22 @@ I look after the servers, networks, backups and user support at [AKEL Melamin](h
 | <img src="assets/dot-running.svg" width="12"> **Running** | Keeping day-to-day systems up at AKEL |
 | <img src="assets/dot-building.svg" width="12"> **Building** | Lumen, around real sales and inventory needs |
 | <img src="assets/dot-variable.svg" width="12"> **Testing** | Hardware, automation and whatever I'm curious about |
+
+## Projects to try
+
+### [Windows Stats](https://github.com/husodrn46/windows-stats)
+
+A Windows 10/11 taskbar system monitor, based on [winstats](https://github.com/mgvs/winstats). CPU, memory, disk and network activity, with detail panels and an English/Turkish interface.
+
+[Download the latest release](https://github.com/husodrn46/windows-stats/releases/latest) · [Installation](https://github.com/husodrn46/windows-stats#install) · [Türkçe](https://github.com/husodrn46/windows-stats/blob/main/README.tr.md)
+
+![Windows Stats taskbar strip](https://raw.githubusercontent.com/husodrn46/windows-stats/main/docs/images/strip.png)
+
+### [Lumen](https://github.com/husodrn46/Lumen)
+
+An open-source, mobile-friendly order and stock interface for LOGO Tiger ERP. Built around everyday sales and inventory needs; requires PHP 8.2+ and Microsoft SQL Server.
+
+[Setup guide](https://github.com/husodrn46/Lumen#kurulum) · [Synthetic demo database notes](https://github.com/husodrn46/Lumen#demo-veritabanı)
 
 ## Things I've made
 
